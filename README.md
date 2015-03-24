@@ -5,7 +5,7 @@ I started learning to program in Ruby and this has files and programs from the f
 
 Including:
 
-Chris Pine's Beginning Ruby Chapters 1-6
-learn-to-program
-Ruby in 100 minutes
+Chris Pine's Beginning Ruby Chapters 1-6,
+learn-to-program,
+Ruby in 100 minutes,
 
